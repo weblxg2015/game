@@ -166,6 +166,7 @@ document.onkeydown = function(e){
         case 38: up= true;break;
         case 39: right = true;break;
         case 40: bottom = true;break;
+        case 32:  = true;break;
     }
 };
 //¼üÅÌÀë¿ª
